@@ -1,0 +1,5 @@
+Daftar ini diambil dari beberapa sumber open SEO, termasuk:
+- Forum SEO publik
+- Repo open-source GitHub
+- Direktori blog publik
+- Arsip web umum
